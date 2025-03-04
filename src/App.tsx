@@ -110,6 +110,7 @@ function App() {
         <p>
           <span>Made with 💚 and 👩🏻‍💻</span>
           <span>by Teffcode and Platzi</span>
+          <span>Josué Hernández's Vesion 🚀</span>
         </p>
       </footer>
     </>
