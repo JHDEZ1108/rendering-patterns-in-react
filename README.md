@@ -7,3 +7,5 @@ Para seguir el curso y completar los ejemplos de cada patrón, debes:
 3. Correr el proyecto con `npm run dev`.
 4. Ir al navegador y abrir `http://localhost:5173/`.
 
+Demo: https://jhdez1108.github.io/rendering-patterns-in-react/
+
